@@ -32,7 +32,7 @@ Open your Termux and run the following commands:
 apt update && apt install git -y
 git clone [https://github.com/msrofficial/clean-shell](https://github.com/msrofficial/clean-shell)
 cd clean-shell
-bash setup.sh
+bash setup.sh 
 
 Note: After the script finishes, please restart Termux to see the changes.
 🛠️ How it Works
@@ -45,4 +45,3 @@ chsh -s bash
 MD Sakibur Rahman
  * GitHub: msrofficial
  * Website: msrsakibur.site
-Made with ❤️ for the Termux Community.
