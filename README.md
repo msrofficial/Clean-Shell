@@ -30,8 +30,8 @@ Open your Termux and run the following commands:
 
 ```bash
 apt update && apt install git -y
-git clone [https://github.com/msrofficial/clean-shell](https://github.com/msrofficial/clean-shell)
-cd clean-shell
+git clone https://github.com/msrofficial/Clean-Shell
+cd Clean-Shell
 bash setup.sh 
 
 Note: After the script finishes, please restart Termux to see the changes.
